@@ -6,3 +6,4 @@ console.log("His age is "+age)
 console.log(myname+" is creating a Javascript for beginners")
 console.log("But his age is only "+age) 
 
+console.log(22)
